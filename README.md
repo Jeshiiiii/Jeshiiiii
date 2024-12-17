@@ -1,16 +1,13 @@
-## Hi there 👋
+**Hi there 👋, Welcome!**
 
-<!--
-**Jeshiiiii/Jeshiiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My name is **John Carlos R. Leppago**. I am from Technological Institute of the Philippines Quezon City taking BS Information Technology. 
 
-Here are some ideas to get you started:
+I'm currently working on our capstone project, where I apply my skills in both development and design. My interests lie in front-end development, UI/UX design, and data analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:**
+Leadership & Project Management | Front-end Development & UI/UX Design | Communication & Presentation
+
+- 🔭 I’m currently working on our capstone project
+- 🌱 I’m currently learning new tools and skills
+- 📫 How to reach me: leppagojc@gmnail.com / @jcleppago on ig
+- 😄 Pronouns: he/him
