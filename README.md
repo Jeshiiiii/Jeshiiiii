@@ -9,5 +9,5 @@ Leadership & Project Management | Front-end Development & UI/UX Design | Communi
 
 - 🔭 I’m currently working on our capstone project
 - 🌱 I’m currently learning new tools and skills
-- 📫 How to reach me: leppagojc@gmnail.com / @jcleppago on ig
+- 📫 How to reach me: leppagojc@gmail.com / @jcleppago on ig
 - 😄 Pronouns: he/him
